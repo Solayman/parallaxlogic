@@ -5,6 +5,6 @@
 #login
 - live link: http://parallaxlogic.raton24.tk/
 
--email: admin@gmail.com
+- email: admin@gmail.com
 
--password: 12345678
+- password: 12345678
